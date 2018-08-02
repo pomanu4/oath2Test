@@ -1,0 +1,14 @@
+ua\com\oauthLoginTry2\component\RoleSuplaer.class
+ua\com\oauthLoginTry2\config\PersistenceConfig.class
+ua\com\oauthLoginTry2\dao\PersonDAOIntrf.class
+ua\com\oauthLoginTry2\config\SecurityInit.class
+ua\com\oauthLoginTry2\entity\CustomUserDetails.class
+ua\com\oauthLoginTry2\config\SrcurityConfig.class
+ua\com\oauthLoginTry2\entity\Role.class
+ua\com\oauthLoginTry2\config\AppConfig.class
+ua\com\oauthLoginTry2\serviceImpl\CustomUserDetailService.class
+ua\com\oauthLoginTry2\controller\AppController.class
+ua\com\oauthLoginTry2\serviceImpl\PersonService.class
+ua\com\oauthLoginTry2\entity\Person.class
+ua\com\oauthLoginTry2\service\PersonServiceInerf.class
+ua\com\oauthLoginTry2\config\WebInit.class

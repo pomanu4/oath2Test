@@ -1,0 +1,14 @@
+D:\eclipsFor Web\outhLogitTry2\src\main\java\ua\com\oauthLoginTry2\component\RoleSuplaer.java
+D:\eclipsFor Web\outhLogitTry2\src\main\java\ua\com\oauthLoginTry2\entity\Role.java
+D:\eclipsFor Web\outhLogitTry2\src\main\java\ua\com\oauthLoginTry2\config\AppConfig.java
+D:\eclipsFor Web\outhLogitTry2\src\main\java\ua\com\oauthLoginTry2\controller\AppController.java
+D:\eclipsFor Web\outhLogitTry2\src\main\java\ua\com\oauthLoginTry2\service\PersonServiceInerf.java
+D:\eclipsFor Web\outhLogitTry2\src\main\java\ua\com\oauthLoginTry2\serviceImpl\PersonService.java
+D:\eclipsFor Web\outhLogitTry2\src\main\java\ua\com\oauthLoginTry2\dao\PersonDAOIntrf.java
+D:\eclipsFor Web\outhLogitTry2\src\main\java\ua\com\oauthLoginTry2\entity\Person.java
+D:\eclipsFor Web\outhLogitTry2\src\main\java\ua\com\oauthLoginTry2\entity\CustomUserDetails.java
+D:\eclipsFor Web\outhLogitTry2\src\main\java\ua\com\oauthLoginTry2\config\SecurityInit.java
+D:\eclipsFor Web\outhLogitTry2\src\main\java\ua\com\oauthLoginTry2\config\PersistenceConfig.java
+D:\eclipsFor Web\outhLogitTry2\src\main\java\ua\com\oauthLoginTry2\config\WebInit.java
+D:\eclipsFor Web\outhLogitTry2\src\main\java\ua\com\oauthLoginTry2\config\SrcurityConfig.java
+D:\eclipsFor Web\outhLogitTry2\src\main\java\ua\com\oauthLoginTry2\serviceImpl\CustomUserDetailService.java
